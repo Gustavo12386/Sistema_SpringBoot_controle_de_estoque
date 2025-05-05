@@ -1,8 +1,8 @@
-# Sistema_SpringBoot_cadastro_de_produtos
+# Sistema_SpringBoot_controle_de_estoque
 
 ## 💻 Sobre o Sistema
-- O sistema de cadastro de produtos trata-se de um sistema produzido no curso de Java do instrutor Nelio Alves, no qual tem a função de registrar usuarios, onde realizam compras
-de produtos no sistema que podem pertencer mais de uma categoria num relacionamento de muitos para muitos no banco de dados relacional, o sistema apresenta duas tabelas que
+- O sistema de controle de estoque trata-se de um sistema produzido no curso de Java Completo Programação Orientada a Objetos + Projetos do instrutor Nelio Alves, no qual tem a função de registrar usuarios,
+onde realizam compras de produtos no sistema que podem pertencer mais de uma categoria num relacionamento de muitos para muitos no banco de dados relacional, o sistema apresenta duas tabelas que
 registram a quantidade, o preço, o staus e o momento em que o pedido foi feito, e também o sistema apresenta a tabela de pagamento ligada a tabela de pedido.
 
 ## ✨ Tecnologias Utilizadas
