@@ -1,3 +1,4 @@
+// Classe auxiliar para a classe OrderItem
 package com.aplicacaospring.course.entities.pk;
 
 import java.io.Serializable;
