@@ -13,7 +13,8 @@ public enum OrderStatus {
   private OrderStatus(int code) {
 	  this.code = code;
   }
-  
+
+// metodo para deixar a variavel privada code acessivel	
   public int getCode() {
 	  return code;
   }
