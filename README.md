@@ -7,8 +7,7 @@ registram a quantidade, o preço, o staus e o momento em que o pedido foi feito,
 
 ## ✨ Tecnologias Utilizadas
 - Java 21
-- SpringBoot 3.4.2
-- Spring Dev Tools Suite 4(IDE)
+- SpringBoot
 - Maven
 - H2 Database
 - Hibernate
